@@ -226,8 +226,8 @@ graph TB
 
 Встроенный бьютифаер IntelliJ IDEA поддерживает реформатирование md-файлов в соответствии с настройками переноса строк,
 пустых строк и отступов. Вы можете включить реформат файла при коммите (**File | Settings | Version Control | Commit**)
-или в любой момент выполнить его вручную с помощью сочетания клавиш <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>L</kbd> 
-(<kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Alt</kbd><kbd>L</kbd>) 
+или в любой момент выполнить его вручную с помощью сочетания клавиш <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>L</kbd>
+(<kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Alt</kbd><kbd>L</kbd>)
 
 ### Настройка форматирования
 
