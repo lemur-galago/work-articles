@@ -1,4 +1,10 @@
-<link rel="stylesheet" href="styleblocks.css">
+<style>
+mark{
+    color: red
+}
+</style>
+<mark>Тест внешних стилей в GitHub</mark>
+
 
 # Дополнительные стили
 
